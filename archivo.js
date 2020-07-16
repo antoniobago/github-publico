@@ -1,2 +1,2 @@
 alert("Hola Mundo cruel !!!");
-console.log("Impresión.");
+console.log("Impresiónes.");
